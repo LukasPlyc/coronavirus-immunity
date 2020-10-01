@@ -1,0 +1,12 @@
+.no-coronavirus {
+  background-color: black;
+  color: black;
+}
+
+.no-coronavirus::selection {
+  background-color: black;
+}
+
+.no-coronavirus::-moz-selection {
+  background-color: black;
+}
